@@ -1,6 +1,9 @@
 # Sustainability-News-Automation
 Latest Sustainability News
 This tool automates the monitoring of global sustainability trends.
+
+SAMPLE REPORT from ScienceDirect
+
 [Sustainability_Report_2026-05-02.txt](https://github.com/user-attachments/files/27301488/Sustainability_Report_2026-05-02.txt)
 --- DAILY SUSTAINABILITY REPORT: 2026-05-02 ---
 
